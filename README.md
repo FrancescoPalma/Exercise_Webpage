@@ -1,2 +1,2 @@
 # Exercise_Webpage
-A simple webpage about me built with HTML, CSS, jQuery.
+A simple webpage about me built with HTML, CSS, Bootstrap, jQuery.
