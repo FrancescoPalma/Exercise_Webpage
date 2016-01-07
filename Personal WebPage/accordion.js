@@ -12,14 +12,11 @@ jQuery(document).ready(function() {
 
 		if(jQuery(e.target).is('.active')) {
 			close_accordion_section();
-		}else {
+		} else {
 			close_accordion_section();
-
 			jQuery(this).addClass('active');
-            
 			jQuery('.accordion ' + currentAttrValue).slideDown(300).addClass('open'); 
 		}
-
 		e.preventDefault();
 	});
 });
